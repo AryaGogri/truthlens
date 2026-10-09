@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "Business Intelligence & Data Mining Dashboard for Fake News Detection",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
